@@ -1,0 +1,105 @@
+/*************************
+GENERAL
+**************************/
+body, html {
+  margin:0;
+  padding:0;
+  color:#000;
+  background:#3E454C;
+}
+
+#wrap {
+  width:750px;
+  margin:0 auto;
+  background: #2185C5;
+}
+
+#header {
+  padding:5px 10px;
+  background:#FFF6E5;
+}
+
+h1 {
+  margin:0;
+}
+#nav {
+  padding:5px 10px;
+  background:#FF7F66;
+}
+
+#main {
+  float:left;
+  width:480px;
+  padding:10px;
+  background:##7ECEFD;
+}
+
+h2 {
+  margin:0 0 1em;
+}
+
+#sidebar {
+  float:right;
+  width:230px;
+  padding:10px;
+  background:#2185C5;
+}
+
+#footer {
+  clear:both;
+  padding:5px 10px;
+  background:#FF7F66;
+}
+
+#footer p {
+  margin:0;
+}
+
+/*************************
+COLUMNS
+**************************/
+#main {
+  float:left;
+  width:480px;
+  background:#7ECEFD;
+}
+
+#sidebar {
+  float:right;
+  width:250px;
+  background:#2185C5;
+}
+
+/*************************
+FOOTER
+**************************/
+#footer {
+  clear:both;
+  background:#FF7F66;
+}
+
+
+/*************************
+NAVAGATION
+**************************/
+#nav ul {
+  margin:0;
+  padding:0;
+  list-style:none;
+}
+
+#nav li {
+  display:inline;
+  margin:0;
+  padding:0;
+}
+
+
+/*************************
+COLOR
+**************************/
+#sidebar {
+  float:right;
+  width:230px;
+  background:#2185C5;
+}
